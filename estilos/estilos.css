@@ -2,3 +2,10 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+.contenedor{
+    width: 90%;
+    max-width: 1200px;
+    overflow: hidden;
+    margin: auto;
+    
+}
